@@ -1,0 +1,7 @@
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-wgwilber-proj.exe
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-wgwilber-proj.dll
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-wgwilber-proj.deps.json
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-wgwilber-proj.runtimeconfig.json
+C:\Users\walt\source\repos\WaldWober\Fall2024-Assignment1-wgwilber\Fall2024-Assignment1-wgwilber-sol\Fall2024-Assignment1-wgwilber-proj\obj\Release\net8.0\PubTmp\Out\Fall2024-Assignment1-wgwilber-proj.pdb
